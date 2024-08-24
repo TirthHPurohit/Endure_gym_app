@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Endure</string>
+    <string name="loginTxt">Are you having an account?<font color='#FD511E'> Signin</font></string>
+</resources>
